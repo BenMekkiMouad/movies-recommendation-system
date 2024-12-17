@@ -1,15 +1,7 @@
 # Movie Recommendation System
 
 A simple movie recommendation system built using **FastAPI** and **Python** libraries, designed for simplicity and ease of setup. The application uses a preloaded dataset of movies to recommend similar titles based on user input.
-
----
-
-## Features
-
-- **Interactive Web Interface**: Get recommendations instantly .
-- **FastAPI Backend**: Handles recommendations and serves the web app.
-- **Lightweight Frontend**: Uses plain HTML, CSS, and JavaScript.
-- **CSV Dataset**: No database setup required; uses a simple CSV file.
+Goal is how to get user input ?
 
 ---
 

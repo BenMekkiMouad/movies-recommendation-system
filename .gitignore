@@ -1,0 +1,23 @@
+# Python bytecode files
+*.pyc
+*.pyo
+__pycache__/
+
+# Virtual environment directories
+venv/
+env/
+.venv/
+.env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE and editor files
+.vscode/
+.idea/
+
+# MacOS files
+.DS_Store
+
+# Windows files
+Thumbs.db
