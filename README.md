@@ -7,6 +7,8 @@ Goal is to make a nice UI to get user preferences, and finish the recommendation
 
 ---
 
+## Get Started at recommendation_engine.ipynb in root folder.
+---
 ## Technologies Used
 
 ### Backend
